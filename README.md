@@ -1,16 +1,10 @@
-​                                                               ![img](https://i.ytimg.com/vi/BUpk68lggtY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhLHVKLYUUdt7SkdnxgWjj4O-_eA)       
+​                                                           ![img](https://i.ytimg.com/vi/BUpk68lggtY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhLHVKLYUUdt7SkdnxgWjj4O-_eA)       
 
-> 1
+> 1✔
 >
 > [![img](https://i.ytimg.com/vi/BUpk68lggtY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtl56rEdC2WEi2UJUItO76Xn6JPw)18:56TOCANDO AGORA](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
 >
 > ### [Codificação básica - Curso de HTML Completo e Profissional #01](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
->
-> 
->
-> 
->
-> 
 >
 > 2
 >
@@ -18,23 +12,11 @@
 >
 > ### [Tag P e mais regras e detalhes importantes HTML - Curso de HTML Completo e Profissional #02](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
 >
-> 
->
-> 
->
-> 
->
 > 3
 >
 > [![img](https://i.ytimg.com/vi/Xw_dEW7R3SM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBW-dpTKd-cA0dvhtPzr4ccNh8K-Q)11:03TOCANDO AGORA](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
 >
 > ### [Tags H, h1 até h6 - Curso de HTML Completo e Profissional #03](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
->
-> 
->
-> 
->
-> 
 >
 > 4
 >
