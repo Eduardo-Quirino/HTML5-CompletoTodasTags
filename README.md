@@ -1,40 +1,52 @@
-​                                                           ![img](https://i.ytimg.com/vi/BUpk68lggtY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhLHVKLYUUdt7SkdnxgWjj4O-_eA)       
+![Tags HTML5 – Diego Mariano](https://diegomariano.com/wp-content/uploads/2020/08/tag.png)
 
-> 1✔
+
+
+- ## [Validador de código](https://validator.w3.org/)
+
+- ## [Site w3schools - Suporte para desenvolvedores](https://www.w3.org/)
+
+  
+
+> 1 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom:33%;" /> [Codificação básica ](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
 >
-> [![img](https://i.ytimg.com/vi/BUpk68lggtY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtl56rEdC2WEi2UJUItO76Xn6JPw)18:56TOCANDO AGORA](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
->
-> ### [Codificação básica - Curso de HTML Completo e Profissional #01](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
->
-> 2
->
-> [![img](https://i.ytimg.com/vi/kFitfXelH0Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtVJFnTVpFZcBGi3S5f31smAxHFg)11:54TOCANDO AGORA](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
->
-> ### [Tag P e mais regras e detalhes importantes HTML - Curso de HTML Completo e Profissional #02](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
->
-> 3
->
-> [![img](https://i.ytimg.com/vi/Xw_dEW7R3SM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBW-dpTKd-cA0dvhtPzr4ccNh8K-Q)11:03TOCANDO AGORA](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
->
-> ### [Tags H, h1 até h6 - Curso de HTML Completo e Profissional #03](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
->
-> 4
->
-> [![img](https://i.ytimg.com/vi/9ByTCcGSIcw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfiZl6-FdM6swM_hmj6JdKiZE5XA)28:32TOCANDO AGORA](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
->
-> ### [Tag a - Âncora - Curso de HTML Completo e Profissional #04](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
+> > ```html
+> > <!DOCTYPE html>
+> > <html lang="pt-br">
+> >     <head>
+> >         <title></title>
+> >     </head>
+> >          <body>
+> >          </body>
+> > </html>
+> > ```
+> >
+> > - < ! DOCTYPE > = Instrução que diz qual versão do HTML estamos trabalhando
+> > - < HTML > = Tag container raiz DOM Interface Uses HTMLElement
+> > - < HEAD > = Cabeça da página DOM Interface Uses HTMLElement Contido por < HTML >
+> > - < TITLE > = Título da página DOM Interface Uses HTMLElement
+> >   Categoria = Metadado Contido por : < HEAD >
+> > - < BODY > = Corpo da página DOM Interface interface HTMLBodyElement : HTMLElement Categoria = Seção Raiz Contido por : < HTML >
 >
 > 
 >
-> 
+> ### 
+>
+> 2 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom:33%;" /> [Tag P e mais regras e detalhes importantes HTML ](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
 >
 > 
 >
-> 5
+> 3 - ![img](https://i.ytimg.com/vi/Xw_dEW7R3SM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBW-dpTKd-cA0dvhtPzr4ccNh8K-Q)[Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
 >
-> [![img](https://i.ytimg.com/vi/aE07AI2mwSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAH4q_kmreabIyA0vtpDLgWuW8OZA)9:36TOCANDO AGORA](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+> 
 >
-> ### [Tag abbr - Abreviações- Curso de HTML Completo e Profissional #05](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+> 4 - ![img](https://i.ytimg.com/vi/9ByTCcGSIcw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfiZl6-FdM6swM_hmj6JdKiZE5XA)[Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
+>
+> 
+>
+> 5![img](https://i.ytimg.com/vi/aE07AI2mwSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAH4q_kmreabIyA0vtpDLgWuW8OZA)[Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+>
+> ### 
 >
 > 
 >
@@ -1643,3 +1655,4 @@
 > ### [Movendo imagens no canvas pelo teclado usando classes #P4 [Canvas\] - Curso de Canvas - Aula 15](https://www.youtube.com/watch?v=f09i0FYXPf0&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=139)
 >
 > [CFBCursos](https://www.youtube.com/c/cfbcursos)
+
