@@ -8,7 +8,7 @@
 
   
 
-> 1 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom:33%;" /> [Codificação básica ](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
+> 1 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Codificação básica ](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
 >
 > > ```html
 > > <!DOCTYPE html>
@@ -30,13 +30,19 @@
 >
 > 
 >
-> ### 
+> 2 -✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag P e mais regras e detalhes importantes HTML ](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
 >
-> 2 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom:33%;" /> [Tag P e mais regras e detalhes importantes HTML ](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
+> - [Categorias](https://html.spec.whatwg.org/multipage/dom.html#concept-element-categories) :Conteúdo do fluxo, Conteúdo palpável.
 >
 > 
 >
-> 3 - ![img](https://i.ytimg.com/vi/Xw_dEW7R3SM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBW-dpTKd-cA0dvhtPzr4ccNh8K-Q)[Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
+> 3 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
+>
+> > Categoria : Fluxo e Cabeçalho
+> > Display : Block
+> > DOM Interface : Uses HTMLElement
+> >
+> > 
 >
 > 
 >
