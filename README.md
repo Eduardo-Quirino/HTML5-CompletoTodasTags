@@ -46,7 +46,39 @@
 >
 > 
 >
-> 4 - ![img](https://i.ytimg.com/vi/9ByTCcGSIcw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfiZl6-FdM6swM_hmj6JdKiZE5XA)[Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
+> 4 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
+>
+> >**DOM Interface**
+> >interface HTMLAnchor Element : HTMLElement {
+> >    attribute DOMString target ;
+> >    attribute DOMString download ;
+> >    attribute DOMString rel ;
+> >         [ SameObject , Put Forwards - value ] readonly attribute DOMTokenlist rellist ;
+> >    attribute DOMString hreflang ;
+> >    attribute DOMString type ;
+> >    attribute DOMString text ;
+> >HTMLAnchor Element implements HTMLHyperlinkElementUtils ;
+> >
+> >
+> >
+> >**TARGET**
+> >     blank
+> >    _parent
+> >    _self
+> >   _top
+> >    framename 
+> >
+> >**MEDIA**
+> >    all = ( padrão ) Adequado para todos os dispositivos -
+> >    aura = l de fala auditiva Sintetizadores
+> >    braille =  Dispositivod de Braille
+> >    handheld =  Dispositivos de tela pequena e banda limitada
+> >    projection =  Projetores
+> >    print = Impressoras
+> >    screen = Telas de computador
+> >    tv = Televisores    
+> >
+> >   
 >
 > 
 >
