@@ -101,7 +101,24 @@
 >
 > 6 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag address - Informações de contato](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
 >
-> ### 
+> > - Tag utilizada para contato
+> >
+> > Display : Block
+> > Categoria : Fluxo
+> > Filhos : Fluxo
+> > DOM interface : Uses HTMLElement
+> >
+> > ```html
+> > <footer>
+> >     <address>
+> >         Autor: Eduardo Quirino <br>
+> >         Programador: <a href="https://github.com/Eduardo-Quirino" target="_blank">Informaões do
+> >             Programador</a>
+> >     </address>
+> > </footer>
+> > ```
+> >
+> > 
 >
 > 
 >
