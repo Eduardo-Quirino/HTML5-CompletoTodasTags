@@ -36,7 +36,7 @@
 >
 > 
 >
-> 3 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
+> 3 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
 >
 > > Categoria : Fluxo e Cabeçalho
 > > Display : Block
@@ -46,7 +46,7 @@
 >
 > 
 >
-> 4 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
+> 4 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
 >
 > >**DOM Interface**
 > >interface HTMLAnchor Element : HTMLElement {
@@ -82,7 +82,7 @@
 >
 > 
 >
-> 5<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+> 5 - ✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
 >
 > > - Faz um breve comentário sobre o elemento.
 > >
@@ -99,7 +99,7 @@
 >
 > 
 >
-> 6 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag address - Informações de contato](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
+> 6 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag address - Informações de contato](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
 >
 > > - Tag utilizada para contato
 > >
@@ -124,7 +124,38 @@
 >
 > 
 >
-> 7 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tags area e map](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
+> 7 - ✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tags area e map](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
+>
+> > **area**
+> >
+> > **interface HTMLArea Element : HTMLElement** {
+> > attribute DOMString alt ;
+> > attribute DOMString coords ;
+> > attribute DOMString shape ;
+> > attribute DOMString target ;
+> > attribute DOMString download ;
+> > attribute DOMString rel ;
+> > [ Same Object , Put Forwards = value ] readonly attribute
+> > DOMToken List relList ;
+> > attribute DOMString hreflang ;
+> > attribute DOMString type ;
+> > attribute DOMString referrer Policy ;
+> > } ;
+> > HTMLArea Element implements
+> > MIMLMуреrlinkElementutifs
+> >
+> > 
+> >
+> > Display : None ( nenhum )
+> > Categoria : Fluxo e
+> > Fraseado
+> > Contido por : < map >
+> > Filhos : None ( vazio )
+> >
+>
+> > 
+>
+> 
 >
 > 
 >
