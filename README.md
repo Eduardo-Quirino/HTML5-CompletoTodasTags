@@ -82,7 +82,24 @@
 >
 > 
 >
-> 5![img](https://i.ytimg.com/vi/aE07AI2mwSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAH4q_kmreabIyA0vtpDLgWuW8OZA)[Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+> 5<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+>
+> > - Faz um breve comentário sobre o elemento.
+> >
+> > Display : inline
+> > Categoria : Fluxo e Fraseado
+> > Contido por : Fraseado
+> > Filhos : Fraseado
+> > Atributos = title e globais
+> >
+> > ```html
+> > <p>Cursode <abbr title="Hypertext Markup Language">       HTML</abbr> Completo e Proficional <abbr
+> >         title="Canal Curso Fessor Bruno"> CFBC </abbr></p>
+> > ```
+>
+> 
+>
+> 6 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag address - Informações de contato](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
 >
 > ### 
 >
@@ -90,33 +107,15 @@
 >
 > 
 >
-> 
->
-> 6
->
-> [![img](https://i.ytimg.com/vi/swUF0MQBq10/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVbapNScTAAhT0VHQh-ADPNUOg3g)9:10TOCANDO AGORA](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
->
-> ### [Tag address - Informações de contato - Curso de HTML Completo e Profissional #06](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
->
-> 
->
-> 
->
-> 7
->
-> [![img](https://i.ytimg.com/vi/2wOXCNBfUK8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCR-NBSfZPza_cN5sdBhWlk5v0hLA)18:11TOCANDO AGORA](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
->
-> ### [Tags area e map - Mapeando links - Curso de HTML Completo e Profissional #07](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
->
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
->
-> 
+> 7 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tags area e map](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
 >
 > 
 >
 > 8
 >
 > [![img](https://i.ytimg.com/vi/ePUD7uBdV9o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAajDoESvwrzrdifSiu2AqAfCqpTw)16:31TOCANDO AGORA](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
+>
+> 
 >
 > ### [Tags article e a Nova Semântica - Curso de HTML Completo e Profissional #08](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
 >
