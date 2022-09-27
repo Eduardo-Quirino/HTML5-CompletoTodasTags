@@ -70,7 +70,7 @@
 > >
 > >**MEDIA**
 > >    all = ( padrão ) Adequado para todos os dispositivos -
-> >    aura = l de fala auditiva Sintetizadores
+> >    aural =  de fala auditiva Sintetizadores
 > >    braille =  Dispositivod de Braille
 > >    handheld =  Dispositivos de tela pequena e banda limitada
 > >    projection =  Projetores
