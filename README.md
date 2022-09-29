@@ -153,37 +153,43 @@
 > > Filhos : None ( vazio )
 > >
 >
+> 
+>
+> 
+>
+> 8 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tags article e a Nova Semântica](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
+>
+> > - **article** - representa uma sessão independente no projeto  
+> >
+> >   Display: Block
+> >
+> >   Categoria: Fluxo e Seção
+> >
+> >   Contido por: Fluxo
+> >
+> >   Filhos: Fluxo
+> >
+> >   DOM Interface: Uses HTMLElement
+> >
 > > 
 >
 > 
 >
-> 
+> 9 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag aside da Nova Semântica ](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
 >
-> 8
+> > - contém um elemento de navegação da página
+> >
+> > Display: Block
+> >
+> > Categoria: Fluxo e Seção
+> >
+> > Contido por: Fluxo
+> >
+> > Filhos: Fluxo
+> >
+> > DOM Interface: Uses HTMLElement
 >
-> [![img](https://i.ytimg.com/vi/ePUD7uBdV9o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAajDoESvwrzrdifSiu2AqAfCqpTw)16:31TOCANDO AGORA](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
->
-> 
->
-> ### [Tags article e a Nova Semântica - Curso de HTML Completo e Profissional #08](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
->
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
->
-> 
->
-> 
->
-> 9
->
-> [![img](https://i.ytimg.com/vi/1qvcjr9DFJc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBpabLE2RDkChEse3VixP1t5BcUg)17:02TOCANDO AGORA](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
->
-> ### [Tag aside da Nova Semântica - Curso de HTML Completo e Profissional #09](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
->
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
->
-> 
->
-> 
+> ### 
 >
 > 10
 >
