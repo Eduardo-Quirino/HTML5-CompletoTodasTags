@@ -175,9 +175,9 @@
 >
 > 
 >
-> 9 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag aside da Nova Semântica ](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
+> 9 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag aside da Nova Semântica ](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
 >
-> > - contém um elemento de navegação da página
+> > - O elemento de lado representa uma seção de uma página que consiste em conteúdo tangencialmente relacionado ao conteúdo ao redor do elemento de lado e que pode ser considerado separado desse conteúdo.
 > >
 > > Display: Block
 > >
@@ -191,13 +191,35 @@
 >
 > ### 
 >
-> 10
+> 10 -<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag audio, inserindo música e sons na página](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
 >
-> [![img](https://i.ytimg.com/vi/seFNHyf_3ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCz44LZXKjBAAP-ezHg3RtVRILtiA)14:12TOCANDO AGORA](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
+> > - Descrição
+> >
+> >   Um elemento de áudio representa um som ou fluxo de áudio. O conteúdo pode ser fornecido dentro do elemento de áudio. Os agentes do usuário não devem mostrar esse conteúdo ao usuário; destina-se a navegadores da Web mais antigos que não suportam áudio, para que os plug-ins de áudio legados possam ser testados ou para mostrar texto aos usuários desses navegadores mais antigos informando como acessar o conteúdo de áudio. O elemento de áudio é um elemento de mídia cujos dados de mídia são ostensivamente dados de áudio. Os atributos src, preload, autoplay, mediagroup, loop, muted e controls são os atributos comuns a todos os elementos de mídia.
+> >
+> > - Atributos
+> >
+> > [atributos HTML globais novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,global HTML attributes) 
+> >
+> > - [autoplay novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,autoplay) 
+> > - [pré -carregamento novos](https://www.w3.org/2009/cheatsheet/#inf,html,a,preload) 
+> > - [controles novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,controls) 
+> > - [loop novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,loop) 
+> > - [mediagroup novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,mediagroup) 
+> > - [silenciado novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,muted) 
+> > - [src novo](https://www.w3.org/2009/cheatsheet/#inf,html,a,src)
+> >
+> > Exemplo de código:
+> >
+> > ```html
+> > <audio src="../_áudio/Doce Encontro - Alucinado (Pagode Do Doce - Ao Vivo)_256k.mp3" autoplay controls>
+> >     <p>Navegador não suporta esse audio!</p>
+> > </audio>
+> > ```
+> >
+> > 
 >
-> ### [Tag audio, inserindo música e sons na página - Curso de HTML Completo e Profissional #10](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
->
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
+> 
 >
 > 
 >
