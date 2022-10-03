@@ -191,7 +191,7 @@
 >
 > ### 
 >
-> 10 -<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag audio, inserindo música e sons na página](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
+> 10 -✔<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag audio, inserindo música e sons na página](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
 >
 > > - Descrição
 > >
@@ -223,15 +223,15 @@
 >
 > 
 >
-> 
+> 11- <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag b, Bold/Negrito](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
 >
-> 11
->
-> [![img](https://i.ytimg.com/vi/-u5UA57uKu4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJStg1R6hEss8hh_RVcl6xMHcMWQ)11:39TOCANDO AGORA](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
->
-> ### [Tag b, Bold/Negrito - Curso de HTML Completo e Profissional #11](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
->
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
+> > **Bold**
+> >
+> > Display: inline
+> >
+> > Categoria: Fluxo e Fraseado
+> > Contido por: Fraseado
+> > Filhos: Fraseado
 >
 > 
 >
