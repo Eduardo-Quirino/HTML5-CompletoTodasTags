@@ -223,7 +223,7 @@
 >
 > 
 >
-> 11- <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag b, Bold/Negrito](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
+> 11-✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag b, Bold/Negrito](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
 >
 > > **Bold**
 > >
@@ -237,7 +237,7 @@
 >
 > 
 >
-> 12- <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag base, apontamento de local padrão](https://www.youtube.com/watch?v=mJvwG2f07qQ&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=12)
+> 12-✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag base, apontamento de local padrão](https://www.youtube.com/watch?v=mJvwG2f07qQ&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=12)
 >
 > > O elemento base permite que os autores especifiquem a URL base do documento para fins de resolução de URLs relativos e o nome do contexto de navegação padrão para fins de hiperlinks a seguir. O elemento não representa nenhum conteúdo além dessas informações. Não deve haver mais de um elemento base por documento. Um elemento base deve ter um atributo href, um atributo target ou ambos. O atributo href content, se especificado, deve conter uma URL válida potencialmente cercada por espaços. Um elemento base, se tiver um atributo href, deve vir antes de quaisquer outros elementos na árvore que tenham atributos definidos como recebendo URLs, exceto o elemento html (seu atributo manifest não é afetado por base elementos). 
 > >
@@ -265,11 +265,13 @@
 >
 > 
 >
-> 13<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag bdo, diração do texto ](https://www.youtube.com/watch?v=R5LRu9UULJ8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=13)
+> 13 - ✔<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag bdo, diração do texto ](https://www.youtube.com/watch?v=R5LRu9UULJ8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=13)
 >
 > 
 >
-> 
+> >O elemento bdo representa o controle de formatação de direcionalidade de texto explícito para seus filhos. Ele permite que os autores substituam o algoritmo bidirecional Unicode especificando explicitamente uma substituição de direção. [BIDI]Os autores devem especificar o atributo dir neste elemento, com o valor ltr para especificar uma substituição da esquerda para a direita e com o valor rtl para especificar uma substituição da direita para a esquerda. O valor automático não deve ser especificado.
+> >
+> >
 >
 > 
 >
