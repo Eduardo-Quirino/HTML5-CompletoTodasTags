@@ -8,7 +8,7 @@
 
   
 
-> 1 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Codificação básica ](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
+> 1 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />   [Codificação básica ](https://www.youtube.com/watch?v=BUpk68lggtY&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=1&t=33s)
 >
 > > ```html
 > > <!DOCTYPE html>
@@ -30,13 +30,13 @@
 >
 > 
 >
-> 2 -✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag P e mais regras e detalhes importantes HTML ](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
+> 2 -✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />   [Tag P e mais regras e detalhes importantes HTML ](https://www.youtube.com/watch?v=kFitfXelH0Q&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=2)
 >
 > - [Categorias](https://html.spec.whatwg.org/multipage/dom.html#concept-element-categories) :Conteúdo do fluxo, Conteúdo palpável.
 >
 > 
 >
-> 3 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
+> 3 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tags H, h1 até h6 ](https://www.youtube.com/watch?v=Xw_dEW7R3SM&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=3&t=264s)
 >
 > > Categoria : Fluxo e Cabeçalho
 > > Display : Block
@@ -46,7 +46,7 @@
 >
 > 
 >
-> 4 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
+> 4 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag a - Âncora ](https://www.youtube.com/watch?v=9ByTCcGSIcw&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=4&t=1177s)
 >
 > >**DOM Interface**
 > >interface HTMLAnchor Element : HTMLElement {
@@ -82,7 +82,7 @@
 >
 > 
 >
-> 5 - ✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
+> 5 - ✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag abbr - Abreviações](https://www.youtube.com/watch?v=aE07AI2mwSE&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=5)
 >
 > > - Faz um breve comentário sobre o elemento.
 > >
@@ -99,7 +99,7 @@
 >
 > 
 >
-> 6 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" /> [Tag address - Informações de contato](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
+> 6 -✔   <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />   [Tag address - Informações de contato](https://www.youtube.com/watch?v=swUF0MQBq10&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=6)
 >
 > > - Tag utilizada para contato
 > >
@@ -124,7 +124,7 @@
 >
 > 
 >
-> 7 - ✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tags area e map](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
+> 7 - ✔  <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tags area e map](https://www.youtube.com/watch?v=2wOXCNBfUK8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=7)
 >
 > > **area**
 > >
@@ -157,7 +157,7 @@
 >
 > 
 >
-> 8 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tags article e a Nova Semântica](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
+> 8 - <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tags article e a Nova Semântica](https://www.youtube.com/watch?v=ePUD7uBdV9o&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=8)
 >
 > > - **article** - representa uma sessão independente no projeto  
 > >
@@ -175,7 +175,7 @@
 >
 > 
 >
-> 9 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag aside da Nova Semântica ](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
+> 9 -✔ <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag aside da Nova Semântica ](https://www.youtube.com/watch?v=1qvcjr9DFJc&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=9)
 >
 > > - O elemento de lado representa uma seção de uma página que consiste em conteúdo tangencialmente relacionado ao conteúdo ao redor do elemento de lado e que pode ser considerado separado desse conteúdo.
 > >
@@ -189,9 +189,9 @@
 > >
 > > DOM Interface: Uses HTMLElement
 >
-> ### 
+> 
 >
-> 10 -✔<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag audio, inserindo música e sons na página](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
+> 10 -✔<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag audio, inserindo música e sons na página](https://www.youtube.com/watch?v=seFNHyf_3ps&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=10)
 >
 > > - Descrição
 > >
@@ -223,7 +223,7 @@
 >
 > 
 >
-> 11- <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />[Tag b, Bold/Negrito](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
+> 11- <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag b, Bold/Negrito](https://www.youtube.com/watch?v=-u5UA57uKu4&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=11)
 >
 > > **Bold**
 > >
@@ -237,25 +237,41 @@
 >
 > 
 >
-> 12
+> 12- <img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag base, apontamento de local padrão](https://www.youtube.com/watch?v=mJvwG2f07qQ&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=12)
 >
-> [![img](https://i.ytimg.com/vi/mJvwG2f07qQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1ZfiTEVb6d9_FfuK0rx_Pu7T_Nw)14:56TOCANDO AGORA](https://www.youtube.com/watch?v=mJvwG2f07qQ&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=12)
+> > O elemento base permite que os autores especifiquem a URL base do documento para fins de resolução de URLs relativos e o nome do contexto de navegação padrão para fins de hiperlinks a seguir. O elemento não representa nenhum conteúdo além dessas informações. Não deve haver mais de um elemento base por documento. Um elemento base deve ter um atributo href, um atributo target ou ambos. O atributo href content, se especificado, deve conter uma URL válida potencialmente cercada por espaços. Um elemento base, se tiver um atributo href, deve vir antes de quaisquer outros elementos na árvore que tenham atributos definidos como recebendo URLs, exceto o elemento html (seu atributo manifest não é afetado por base elementos). 
+> >
+> > **DOm Interface:**
+> >
+> > Interface HTML BaseElemente:
+> >
+> > HTMLElement{
+> >
+> > attribute DomString **href**;
+> >
+> > attribute DomString **target**;
+> >
+> > }
+> >
+> > **Display: nenhum (nome)**
+> >
+> > Categoria: Metadados
+> >
+> > Contido por <head>
+> >
+> > Filhos: nenhum (vazio)
+> >
+> > 
 >
-> ### [Tag base, apontamento de local padrão - Curso de HTML Completo e Profissional #12](https://www.youtube.com/watch?v=mJvwG2f07qQ&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=12)
+> 
 >
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
+> 13<img src="https://diegomariano.com/wp-content/uploads/2020/08/tag.png" alt="img" style="zoom: 25%;" />  [Tag bdo, diração do texto ](https://www.youtube.com/watch?v=R5LRu9UULJ8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=13)
 >
 > 
 >
 > 
 >
-> 13
->
-> [![img](https://i.ytimg.com/vi/R5LRu9UULJ8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3Mdb8P99ID69GUE82u5_JEYf5xg)6:55TOCANDO AGORA](https://www.youtube.com/watch?v=R5LRu9UULJ8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=13)
->
-> ### [Tag bdo, diração do texto - Curso de HTML Completo e Profissional #13](https://www.youtube.com/watch?v=R5LRu9UULJ8&list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c&index=13)
->
-> [CFBCursos](https://www.youtube.com/c/cfbcursos)
+> 
 >
 > 
 >
